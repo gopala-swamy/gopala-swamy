@@ -60,7 +60,7 @@ Equipped with a passion for decoding data's secrets, I am on a mission to reveal
 ### :fire: My Stats :
 
 <!-- GitHub Streak -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gopala-swamy-Venigandla &theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gopala-swamy-Venigandla&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 ### 📚 Sharing Insights and Knowledge
