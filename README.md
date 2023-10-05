@@ -53,6 +53,16 @@ Equipped with a passion for decoding data's secrets, I am on a mission to reveal
   
 ![Github stats](https://www.linkedin.com/in/gopala-swamy-venigandla-40071b24a/)
 
+
+  
+![Github stats](https://github.com/gopala-swamy/gopala-swamy)
+
+### :fire: My Stats :
+
+<!-- GitHub Streak -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gopala-swamy-Venigandla &theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 ### 📚 Sharing Insights and Knowledge
 
 - I specialize in curating concise data insights and knowledge through the use of Gists
