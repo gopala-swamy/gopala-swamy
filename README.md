@@ -1,7 +1,7 @@
 <!-- Replace this with an eye-catching banner image URL -->
 <h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm an Data Scientist with a strong dedication to open-source contributions. I also like Python and I'm exploring Cloud Tech 🐍 ☁️ </samp></h4>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"/>
 </div>
 <div id="badges">
   <a href="(https://www.linkedin.com/in/gopala-swamy-venigandla-40071b24a/)">
@@ -10,7 +10,7 @@
   </div>
 <img src="https://komarev.com/ghpvc/?username=gopala-swamy-P&style=flat-square&color=blue" alt=""/>
 <h1>
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
@@ -54,11 +54,7 @@ Equipped with a passion for decoding data's secrets, I am on a mission to reveal
   
 ![Github stats](https://github-readme-stats.vercel.app/api?username=gopala-swamy)
 
-### :🔥: My stats:
-
-<!-- GitHub streak -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=https://github.com/gopala-swamy&theme=dark&background=000000)](https://git.io/streak-stats)
-
+### :fire: My Stats :
 
 ### 📚 Sharing Insights and Knowledge
 
