@@ -4,11 +4,11 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges">
-  <a href="(https://www.linkedin.com/in/sai-praveen-yerra-ab1405192/)">
+  <a href="(https://www.linkedin.com/in/gopala-swamy-venigandla-40071b24a/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </div>
-<img src="https://komarev.com/ghpvc/?username=SAIPRAVEEN-P&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=gopala-swamy-P&style=flat-square&color=blue" alt=""/>
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -51,13 +51,10 @@ Equipped with a passion for decoding data's secrets, I am on a mission to reveal
 - 🎲 SQL and MySQL: Taming the data beasts lurking in databases.
 - 📊 Tableau Storyteller: Creating data symphonies that resonate.
   
-![Github stats](https://www.linkedin.com/in/gopala-swamy-venigandla-40071b24a/)
-
-
   
-![Github stats](https://github.com/gopala-swamy/gopala-swamy)
+![Github stats](https://github-readme-stats.vercel.app/api?username=gopala-swamy)
 
-### :🔥: My Stats :
+### :🔥: My stats:
 
 <!-- GitHub streak -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gopala-swamy&theme=dark&background=000000)](https://git.io/streak-stats)
